@@ -24,7 +24,7 @@ Atualmente
 
 Meu foco está em desenvolver conhecimentos fundamentais de programação e transformar conceitos em prática por meio de exercícios e pequenos projetos.
 
-Entre os assuntos que fazem parte da minha rotina de estudos estão:
+Entre os assuntos que fazem parte da minha rotina estão:
 
 - Lógica de programação e algoritmos
 - Fundamentos de programação
@@ -67,7 +67,7 @@ Atualmente, tenho interesse em:
 
 </td>
 </tr>
-</table>Essa etapa de exploração faz parte da construção da minha trajetória profissional e permite que eu conheça diferentes perspectivas da área.
+</table>Essa exploração faz parte da construção da minha trajetória profissional e permite conhecer diferentes perspectivas da área.
 
 ---
 
@@ -75,7 +75,7 @@ Minha trajetória
 
 Minha graduação representa uma oportunidade de unir conhecimento acadêmico, prática e projetos.
 
-Neste momento, estou fortalecendo conceitos importantes, experimentando diferentes ferramentas e começando a transformar o conteúdo estudado em experiências práticas.
+Neste momento, estou fortalecendo conceitos importantes, experimentando diferentes ferramentas e transformando o conteúdo estudado em experiências práticas.
 
 CONHECIMENTO
      │
@@ -108,26 +108,15 @@ Projetos
   <img src="https://img.shields.io/badge/PROJETOS-EM%20CONSTRUÇÃO-8B5CF6?style=for-the-badge"/>
 </p>Esta seção será atualizada conforme novos projetos forem desenvolvidos.
 
-A proposta é apresentar não apenas o resultado, mas também os objetivos, tecnologias utilizadas e principais aprendizados de cada projeto.
+A proposta é apresentar os objetivos, tecnologias utilizadas e principais aprendizados de cada projeto.
 
 ---
 
 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=annadev-art&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&include_all_commits=true"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=annadev-art&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF"
-    width="48%"
-  />
-</p><p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=annadev-art&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=9CA3AF"
-    width="70%"
-  />
+  <img src="https://img.shields.io/github/followers/annadev-art?style=for-the-badge&label=SEGUIDORES&labelColor=0D1117&color=8B5CF6&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/github/stars/annadev-art?style=for-the-badge&label=ESTRELAS&labelColor=0D1117&color=A855F7&logo=github&logoColor=FFFFFF"/>
 </p>---
 
 Atividade
@@ -135,15 +124,6 @@ Atividade
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=annadev-art&bg_color=0D1117&color=C084FC&line=8B5CF6&point=E9D5FF&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub"
-    width="95%"
-  />
-</p>---
-
-Conquistas
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=annadev-art&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
     width="95%"
   />
 </p>---
